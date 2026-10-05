@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "NAVI MEAL",
+    "slug": "navi-meal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/img/logo.png",
+    "splash": {
+      "image": "./assets/img/logo.png",
+      "backgroundColor": "#050A14",
+      "resizeMode": "contain"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router"
+    ]
+  }
+}
